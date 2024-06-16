@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @sachit-sharma
+- 👨‍🎓 I am a 3rd Year student at University of British Columbia, studying Mathematics
+- 👀 I’m interested in Mathematics, Statisitcs and Data Science
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me : sachitsharma04@gmail.com
+- 😄 Pronouns: He/Him
+
+
+<!---
+sachit-sharma/sachit-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
