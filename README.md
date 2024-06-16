@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachit-sharma
+## 👋 Hi, I’m Sachit Sharma ##
 - 👨‍🎓 I am a 3rd Year student at University of British Columbia, studying Mathematics
 - 👀 I’m interested in Mathematics, Statisitcs and Data Science
 - 🌱 I’m currently learning Machine Learning
