@@ -2,10 +2,10 @@
 
 ### About Me
 
-I'm a Mathematics graduate from the University of British Columbia (Minor in Statistics), working at the intersection of statistics, data analysis, and applied math. I've built statistical modeling pipelines for bioinformatics research, taught statistics to hundreds of students as a TA, and turned messy real-world datasets — financial statements, sports data, single-cell RNA sequencing — into models and dashboards people can actually use.
+I'm a Mathematics graduate from the University of British Columbia (Minor in Statistics), working at the intersection of statistics, data analysis, and applied math. I've built statistical modeling pipelines for bioinformatics research, taught statistics to hundreds of students as a TA, and turned messy real-world datasets (financial statements, sports data, single-cell RNA sequencing) into models and dashboards people can actually use.
 
-- 🎓 B.Sc. Mathematics, Minor in Statistics — University of British Columbia (2022–2026)
-- 🔬 Undergraduate Research Assistant, UBC Mathematics Department — statistical modeling for single-cell RNA-seq research
+- 🎓 B.Sc. Mathematics, Minor in Statistics, University of British Columbia (2022 to 2026)
+- 🔬 Undergraduate Research Assistant, UBC Mathematics Department: statistical modeling for single-cell RNA-seq research
 - 📊 Interested in statistics, data science, and data analytics
 - 📫 Reach me at **sachitsharma04@gmail.com**
 - 🔗 [LinkedIn](https://linkedin.com/in/sachitsharma24/)
@@ -39,7 +39,7 @@ I'm a Mathematics graduate from the University of British Columbia (Minor in Sta
 | --- | --- | --- |
 | **[Bayesian Modeling of Alzheimer's Disease Risk](https://github.com/sarennalu/final-project-stat405)** | Team project modeling how brain volume, age, and clinical factors predict Alzheimer's diagnosis and dementia severity on the OASIS-1 neuroimaging dataset, with posterior inference via MCMC in Stan and posterior predictive checks. | R, Stan (cmdstanr), MCMC |
 | **[Football Scouting Analysis](https://github.com/sachit-sharma/Football-MostValuablePlayers-2023)** | Identified undervalued players across Europe's top leagues by combining performance stats with market valuations for 1,000+ players, published as an interactive scouting dashboard. | SQL, Python, Tableau |
-| **[GitHub Repo Popularity — Predictive Analysis](https://github.com/loayalabri/GitHubReposAnalysis)** | Multiple linear regression predicting repository stars across 200,000 repos, explaining 55% of variance, with stepwise selection and residual diagnostics. | R, Quarto, tidymodels |
+| **[GitHub Repo Popularity: Predictive Analysis](https://github.com/loayalabri/GitHubReposAnalysis)** | Multiple linear regression predicting repository stars across 200,000 repos, explaining 55% of variance, with stepwise selection and residual diagnostics. | R, Quarto, tidymodels |
 
 Feel free to check out my personal and academic projects!
 
